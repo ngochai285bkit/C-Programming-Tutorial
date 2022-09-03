@@ -65,4 +65,8 @@ $ ./a.out
 Hello World!
 ```
 
-Make sure that **gcc** compiler is in your path and that you are running it in the directory containing source file hello.c.
+Make sure that **gcc** compiler is in your path and that you are running it in the directory containing source file **hello.c**.
+
+[Previous](/Chapter2._C_Environment_Setup/README.md "Chapter 2. C Environment Setup") | [Next](/Chapter4._C_Basic_Syntax/README.md "Chapter 4. C Basic Syntax")
+
+[Back to Table of Contents](../README.md "Table of Contents")

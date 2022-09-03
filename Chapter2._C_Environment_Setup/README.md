@@ -68,3 +68,7 @@ While installing MinWG, at a minimum, you must install gcc-core, gcc-g++, binuti
 Add the bin subdirectory of your MinGW installation to your PATH environment variable, so that you can specify these tools on the command line by their simple names.
 
 When the installation is complete, you will be able to run gcc, g++, ar, ranlib, dlltool, and several other GNU tools from the Windows command line.
+
+[Previous](/Chapter1._C_Language_Overview/README.md "Chapter 1. C Language Overview") | [Next](/Chapter3._C_Program_Structure/README.md "Chapter 3. C Program Structure")
+
+[Back to Table of Contents](../README.md "Table of Contents")

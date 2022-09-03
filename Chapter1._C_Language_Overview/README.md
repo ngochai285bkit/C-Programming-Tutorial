@@ -47,4 +47,6 @@ A C program can vary from 3 lines to millions of lines and it should be written 
 
 This tutorial assumes that you know how to edit a text file and how to write source code using any programming language.
 
-[Back](../README.md "Table of Contents") | [Next](/Chapter2._C_Environment_Setup/README.md "Chapter 2. C Environment Setup")
+[Previous](../README.md "Table of Contents") | [Next](/Chapter2._C_Environment_Setup/README.md "Chapter 2. C Environment Setup")
+
+[Back to Table of Contents](../README.md "Table of Contents")
