@@ -61,7 +61,7 @@ If you use Mac OS X, the easiest way to obtain GCC is to download the Xcode deve
 
 ## Installation on Windows
 
-To install GCC at Windows you need to install MinGW. To install MinGW, go to the MinGW homepage, www.mingw.org, and follow the link to the MinGW download page. Download the latest version of the MinGW installation program, which should be named MinGW-\<version>.exe.
+To install GCC at Windows you need to install MinGW. To install MinGW, go to the MinGW homepage, <https://www.mingw-w64.org/>, and follow the link to the MinGW download page. Download the latest version of the MinGW installation program, which should be named MinGW-\<version>.exe.
 
 While installing MinWG, at a minimum, you must install gcc-core, gcc-g++, binutils, and the MinGW runtime, but you may wish to install more.
 
