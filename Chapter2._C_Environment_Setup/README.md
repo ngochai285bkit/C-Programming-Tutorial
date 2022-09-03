@@ -41,10 +41,14 @@ If you have GNU compiler installed on your machine, then it should print a messa
 
 ```bash
 Using built-in specs.
-Target: i386-redhat-linux
+COLLECT_GCC=gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
 Configured with: ../configure --prefix=/usr .......
 Thread model: posix
-gcc version 4.1.2 20080704 (Red Hat 4.1.2-46)
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
 ```
 
 If GCC is not installed, then you will have to install it yourself using the detailed instructions available at <http://gcc.gnu.org/install/>
