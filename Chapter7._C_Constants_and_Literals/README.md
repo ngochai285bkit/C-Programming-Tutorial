@@ -184,6 +184,6 @@ value of area : 50
 
 Note that it is a good programming practice to define constants in CAPITALS.
 
-[Previous](/Chapter6._C_Variables/ "Chapter 6. C Variables") | [Next](/Chapter8._C_Storage_Classes/ "C Storage Classes")
+[Previous](/Chapter6._C_Variables/README.md "Chapter 6. C Variables") | [Next](/Chapter8._C_Storage_Classes/README.md "C Storage Classes")
 
 [Back to Table of Contents](../README.md "Table of Contents")
